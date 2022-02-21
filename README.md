@@ -2,7 +2,7 @@
 
 ### ビルド
 ```
-$ gradle build
+$ ./gradlew build
 ```
 
 ### サーバー起動
